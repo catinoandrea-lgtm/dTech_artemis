@@ -224,5 +224,5 @@ MIT License — see `LICENSE` file.
 
 ## Contact
 
-Andrea Catino  
+Andrea Catino - Independent Researcher - catino.andrea@gmail.com 
 For questions about the pipeline or the paper, please open a GitHub Issue.
